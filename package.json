@@ -1,0 +1,11 @@
+{
+  "name": "path-convert",
+  "version": "1.0.1",
+  "description": "开发环境下需要打包提交的文件路径转换成生产环境的路径",
+  "author": "Boris <yuhaobo1990@gmail.com>",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "cheerio": "^0.19.0",
+    "co": "^4.6.0"
+  }
+}
